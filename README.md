@@ -1,6 +1,10 @@
 # My Pixel Arts
 Get all of my Pixel Arts Created! I'm a beginner in this and started doing it on 13 June 2022.
 
+6. RIP Technoblade
+
+![Technoblade(Showcase)](https://user-images.githubusercontent.com/98607285/178244347-c9efb6c6-dedd-46a9-90c9-327dcd0c8bb3.png)
+
 5. House
 
 ![House](https://user-images.githubusercontent.com/98607285/175937610-bc4ed3ad-e5aa-4dbf-9586-2f3f643e162c.png)
